@@ -1,17 +1,14 @@
 {
-  "name": "nono",
+  "name": "nono scaffolding",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "bin": {
-    "nono": "bin/nono.js"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/osmn00/nono.git"
+    "url": "https://github.com/osmn00/nono-scaffolding.git"
   },
   "author": "csser@vip.qq.com",
   "license": "MIT",
